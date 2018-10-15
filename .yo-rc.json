@@ -1,0 +1,11 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "isCreatingSolution": true,
+    "environment": "spo",
+    "version": "1.6.0",
+    "libraryName": "meter",
+    "libraryId": "e75f6059-8ebd-4129-bc52-8cc5b98cb0ca",
+    "packageManager": "npm",
+    "componentType": "webpart"
+  }
+}

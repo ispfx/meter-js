@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "meter-client-side-solution",
+    "id": "e75f6059-8ebd-4129-bc52-8cc5b98cb0ca",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true
+  },
+  "paths": {
+    "zippedPackage": "solution/meter.sppkg"
+  }
+}
