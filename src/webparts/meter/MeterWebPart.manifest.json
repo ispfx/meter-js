@@ -20,7 +20,9 @@
     "description": { "default": "Meter description" },
     "officeFabricIconFontName": "Page",
     "properties": {
-      "description": "Meter"
+      "title": "",
+      "description": "Meter",
+      "percentage": 0
     }
   }]
 }
